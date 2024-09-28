@@ -1,4 +1,4 @@
-![Screenshot 2024-09-28 104032](https://github.com/user-attachments/assets/5ef470f5-32d4-41ec-acb4-2d2670d1c72b)![Screenshot 2024-09-28 104113](https://github.com/user-attachments/assets/58c0da04-1e59-4f92-9cbb-082a5d09a67d)
+
 ## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
@@ -126,7 +126,7 @@ cv2.destroyAllWindows()
 
 ### iii) Display the video by resizing the window
 
-![Screenshot 2024-09-28 104113](https://github.com/user-attachments/assets/5279706d-ba34-4e59-91b6-ef28b8264e43)
+![Screenshot 2024-09-28 104113](https://github.com/user-attachments/assets/38d58d9f-641e-4d3a-8b92-6241dc700117)
 
 
 ### iv) Rotate and display the video
