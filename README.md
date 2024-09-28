@@ -122,12 +122,11 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-![Screenshot 2024-09-28 104133](https://github.com/user-attachments/assets/1d00fa02-f9b4-4b9e-bf7e-d55c25e2fb38)
--attachments/assets/df0bdb6d-a7e6-4fc6-a0f1-a88584c502ab)
+![Screenshot 2024-09-28 104032](https://github.com/user-attachments/assets/7c770614-d122-4a56-8c39-e317189584cb)
+
 ### iii) Display the video by resizing the window
 
-
-![Screenshot 2024-09-28 104133](https://github.com/user-attachments/assets/088c727a-9393-41ae-ab3e-73061010c7d3)
+![Screenshot 2024-09-28 104113](https://github.com/user-attachments/assets/5279706d-ba34-4e59-91b6-ef28b8264e43)
 
 
 ### iv) Rotate and display the video
